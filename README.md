@@ -3,6 +3,6 @@ Github orientation repo
 
 Hi
 
-I'm abdullah
+I...
 
-Beginning of coding journey.
+Regards
